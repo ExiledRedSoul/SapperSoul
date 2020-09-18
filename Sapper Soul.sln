@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapper Soul", "Sapper Soul\Sapper Soul.csproj", "{9C0F281B-EFFD-4B97-9E2B-D89DEC5E0B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0F281B-EFFD-4B97-9E2B-D89DEC5E0B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0F281B-EFFD-4B97-9E2B-D89DEC5E0B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0F281B-EFFD-4B97-9E2B-D89DEC5E0B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0F281B-EFFD-4B97-9E2B-D89DEC5E0B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9818B1B-F453-486E-8B27-0F17146972E0}
+	EndGlobalSection
+EndGlobal
