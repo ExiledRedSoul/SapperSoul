@@ -1,0 +1,30 @@
+{
+    "TextArray": [
+        "Saper",
+        "Play",
+        "Settings",
+        "About the author",
+        "Exit",
+        "Do you really want to go out?",
+        "Yes",
+        "No",
+        "Engilsh",
+        "Russian",
+        "Language",
+        "General",
+        "Cancel",
+        "Apply",
+        "Save",
+        "Choose difficulty:",
+        "Newbie",
+        "Experienced",
+        "Expert",
+        "Start",
+        "Back",
+        "Oops ... you lost. Want to start from the beginning or go to the main menu?",
+        "Congratulations. You won !!! Want to start from the beginning or go to the main menu?",
+        "New game",
+        "Main menu",
+        "Resume"
+    ]
+}
